@@ -1,0 +1,11 @@
+create database dbstorage;
+use dbstorage;
+
+create table tperson(
+idPerson varchar(30) primary key not null,
+dni varchar(8) not null,
+firstName varchar(20) not null,
+surName varchar(25) not null,
+birthDate date not null
+
+)ENGINE=InnoDB;
