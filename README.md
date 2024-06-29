@@ -14,7 +14,7 @@ Es una aplicación CRUD desarrollada en C#. Además, implementa el uso de expres
 
 ### Requisitos Previos
 1. **XAMPP**: Asegúrate de tener XAMPP instalado en tu sistema. Puedes descargarlo desde [apachefriends.org](https://www.apachefriends.org/index.html).
-1. **Conector MySql**: Asegúrate de tener el conector instalado en tu sistema. Puedes descargarlo desde [link](https://dev.mysql.com/downloads/connector/net/)
+1. **Conector MySql**: Asegúrate de tener el conector instalado en tu sistema. Puedes descargarlo desde [conectorMySql](https://dev.mysql.com/downloads/connector/net/)
 
 ### Pasos para Configurar MySQL con XAMPP
 
@@ -26,7 +26,7 @@ Es una aplicación CRUD desarrollada en C#. Además, implementa el uso de expres
 
 3. **Crear una Nueva Base de Datos**:
    - Haz clic en la pestaña `SQL` en phpMyAdmin.
-   - Introduce el texto --> Base de datos.txt (se encuentra en el main) y presiona en `Continuar`.
+   - Introduce el texto --> base de datos.txt (se encuentra en el main) y presiona en `Continuar`.
 
 4. **Ejecutar tu Aplicación**:
    - Ejecuta tu aplicación C# desde Visual Studio o mediante el archivo ejecutable generado.
